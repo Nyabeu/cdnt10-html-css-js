@@ -36,6 +36,20 @@ body {
     float:left;
     height: 500px
 }
+#left > img{
+    margin: 20px;
+}
+h2, p{
+    margin-left: 20px;
+}
+.picture{
+    display: flex;
+    justify-content: space-around;
+}
+.title{
+    display: flex;
+    justify-content: space-around;
+}
 
 #right {
     width: 33.33%;
